@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16657" started-at="2022-11-10T11:08:26Z" finished-at="2022-11-10T11:08:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16657" started-at="2022-11-10T11:08:26Z" finished-at="2022-11-10T11:08:43Z">
+      <class name="integrate.api.OmrBranch">
+        <test-method status="PASS" signature="BasicAuthenication()[pri:1, instance:integrate.api.OmrBranch@28feb3fa]" name="BasicAuthenication" duration-ms="4389" started-at="2022-11-10T16:38:26Z" finished-at="2022-11-10T16:38:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BasicAuthenication -->
+        <test-method status="PASS" signature="getStateList()[pri:2, instance:integrate.api.OmrBranch@28feb3fa]" name="getStateList" duration-ms="1255" started-at="2022-11-10T16:38:30Z" finished-at="2022-11-10T16:38:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStateList -->
+        <test-method status="PASS" signature="getCityList()[pri:3, instance:integrate.api.OmrBranch@28feb3fa]" name="getCityList" duration-ms="1539" started-at="2022-11-10T16:38:32Z" finished-at="2022-11-10T16:38:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCityList -->
+        <test-method status="PASS" signature="addUserAddress()[pri:4, instance:integrate.api.OmrBranch@28feb3fa]" name="addUserAddress" duration-ms="1132" started-at="2022-11-10T16:38:33Z" finished-at="2022-11-10T16:38:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addUserAddress -->
+        <test-method status="PASS" signature="updateUserAddress()[pri:5, instance:integrate.api.OmrBranch@28feb3fa]" name="updateUserAddress" duration-ms="1239" started-at="2022-11-10T16:38:34Z" finished-at="2022-11-10T16:38:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUserAddress -->
+        <test-method status="PASS" signature="getUserAddress()[pri:6, instance:integrate.api.OmrBranch@28feb3fa]" name="getUserAddress" duration-ms="2070" started-at="2022-11-10T16:38:36Z" finished-at="2022-11-10T16:38:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserAddress -->
+        <test-method status="PASS" signature="deleteUserAddress()[pri:7, instance:integrate.api.OmrBranch@28feb3fa]" name="deleteUserAddress" duration-ms="1326" started-at="2022-11-10T16:38:38Z" finished-at="2022-11-10T16:38:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUserAddress -->
+        <test-method status="PASS" signature="searchProduct()[pri:8, instance:integrate.api.OmrBranch@28feb3fa]" name="searchProduct" duration-ms="1253" started-at="2022-11-10T16:38:39Z" finished-at="2022-11-10T16:38:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method status="PASS" signature="changeProfilePic()[pri:9, instance:integrate.api.OmrBranch@28feb3fa]" name="changeProfilePic" duration-ms="2402" started-at="2022-11-10T16:38:40Z" finished-at="2022-11-10T16:38:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changeProfilePic -->
+      </class> <!-- integrate.api.OmrBranch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
